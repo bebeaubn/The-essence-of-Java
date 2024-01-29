@@ -6,8 +6,8 @@
 <h5>chapter 01 자바를 시작하기전에</h5>
 <h5>https://keumyebin0213.tistory.com/12</h5>
 
-<h5>자바 환경설정</h5>
+<h5>자바 환경설정 구축하기</h5>
+<h5>https://keumyebin0213.tistory.com/13</h5>
 
-
-<h5>이게 왜 안될까</h5>
+<h5>변수란 ?</h5>
 
